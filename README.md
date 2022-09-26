@@ -34,5 +34,5 @@
 <p align="center">
 <a href="https://t.me/lidarinfo"><img alt="Telegram" src="https://img.shields.io/badge/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-@lidarinfo-blue?style=flat-square&logo=telegram"></a>
 <a href="https://vk.com/lidarinfo/"><img alt="VKontakte" src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-LidarInfo-blue?style=flat-square&logo=vk"></a>
-<a href="mailto:lidarnews@proton.me"><img alt="Email" src=https://img.shields.io/badge/Email-lidarnews@proton.me-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lidarnews@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-lidarnews@proton.me-blue?style=flat-square&logo=gmail"></a>
 </p>
